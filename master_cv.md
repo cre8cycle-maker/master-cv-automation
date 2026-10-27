@@ -3,5 +3,5 @@
 <core_competencies>
 - Workflow Optimization
 - SOP Authoring
-- Local JSON Parsing and Structural API Calls via Ollama (parse_job.py and cv_job_matcher.py)
+- Local JSON parsing and structural API calls via Ollama
 </core_competencies>
