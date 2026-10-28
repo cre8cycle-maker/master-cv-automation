@@ -1,0 +1,8 @@
+
+Job Title: Senior Enablement & Workflow Lead (Fetched via Browser Agent)
+Target URL: https://example.com/job-posting-enablement-lead
+Company: NextGen FinTech Solutions
+Requirements:
+- Proven history in process automation and SOP authoring.
+- Experience with local AI tooling, modular data structures, and Python pipelines.
+- Strong cross-functional facilitation and documentation skills.

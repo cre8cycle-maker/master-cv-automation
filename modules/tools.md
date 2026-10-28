@@ -1,0 +1,2 @@
+- Python, Ollama, Llama3, Git, GitHub
+- Confluence, Slack, Notion, Markdown
