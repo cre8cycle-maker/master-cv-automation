@@ -1,0 +1,3 @@
+- Facilitated onboarding and process improvements for software operations.
+- Developed internal documentation and training workflows using Notion and Confluence.
+- Engineered offline, local-first Python and Ollama automated pipeline architecture.
