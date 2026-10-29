@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "component": "1. Contact Info & Languages",
+  "data": {
+    "name": "Sachin Purandare",
+    "phone": "+91 750 738 7441",
+    "email": "sachinpurandareofficial@gmail.com",
+    "location": "Pune, Maharashtra, India",
+    "communication_languages": [
+      "Marathi",
+      "Kannada",
+      "Hindi",
+      "English"
+    ],
+    "professional_links": {
+      "linkedin": "[Pending - To be added in v1.1]",
+      "portfolio_github": "[Pending - To be added in v1.1]"
+    }
+  },
+  "status": "Fixed data baseline in C:\\setup\\cvdb-repo. Ready for Git tracking."
+}
